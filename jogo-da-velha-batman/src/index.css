@@ -1,0 +1,23 @@
+body {
+  background-color: #121212;
+  color: white;
+  font-family: 'Arial', sans-serif;
+}
+
+button {
+  background-color: #333;
+  color: #f5c518; /* Amarelo */
+}
+
+.square {
+  width: 60px;
+  height: 60px;
+  margin: 5px;
+  font-size: 2rem;
+  border: 2px solid #f5c518; /* Bordas amarelas */
+}
+
+.game-info p {
+  color: #f5c518;
+  font-size: 1.5rem;
+}
